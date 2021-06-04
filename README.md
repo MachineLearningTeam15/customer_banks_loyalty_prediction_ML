@@ -7,3 +7,5 @@ Anas Ba Ragaa
 Rayan Ben Daya 
 
 Rashid Alnuaimi  
+
+Dataset : https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
